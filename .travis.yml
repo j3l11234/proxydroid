@@ -15,6 +15,6 @@ script:
   - mvn clean install
 deploy:
   provider: releases
-  api_key: "2131231212321"
+  api_key: fea712c6353fd0073f1c8c1fc22e73f5858b437c
   file: /home/travis/build/madeye/proxydroid/target/proxydroid.apk
   skip_cleanup: true
