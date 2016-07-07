@@ -18,6 +18,6 @@ deploy:
   provider: releases
   api_key:
     secure: D4wjyc6PNu0XZ/T9uGhBrvtdsG4sOyjeSZnMwY5bFgtRLGdu1iHYVmJxTGTWzMlh2FxXeMxNJ7RsLM8sTpRv7LkG4KeG/V1ZhgXUQY51heCI/XhdxvQ3xTHFX9InihMCRe/g60yBuQ0b1o8lX6FAfzykEJ0xVdjeCSv3p9cc0szU2cuV+tX3W3fD6GfIYZJ7naov+4O8Xt8iFeuleLg2G/FOMX8rbn6mmBiqBFxr5WAALNxzg3SMS7ndPeoz5s/B6d9/MCp/QMBIjLEYDpzk3w3uwi0Zs8vN67otqg7lKaCqWgOABRJ6p0hj8Yz0ac0EHemNS9PMxWFHlzbGOG2UnuqIDw9Abde8Ik/RVkv3kv3lzOF/04RDKYQ8QyJxrJivmGXKyz2H3DBesLmopzl6uI1vX8TxVg1+T6lyxNgZkAHIhJdFh2WP9ihXR2vM1iPDdcmje8Wk/N5cE0ktrsemRsEtC7Uj7Nr/gte1RNU106RQ0xQfQsAJ3IC1CM+mgEkU7o4A2h0JwKkWpjEtdBpYKLZX/64GSgJrwxkc0oWPgisLE/w911aP35q3WQyD1aN0Loj5W95vPtB2QGc96PW7tyZUgn2TbKTioZ03686zZLT0EklcsZtA8uxb+6PZLTjZ5bli02NTiFSDSAl7kI4y7b3ar33Wctkg29AIqlSw23A=
-  file: /home/travis/build/j3l11234/proxydroid/target/proxydroid-2.7.4.apk
+  file: /home/travis/.m2/repository/org/proxydroid/proxydroid/2.7.4/proxydroid-2.7.4.apk
   on:
     repo: j3l11234/proxydroid
